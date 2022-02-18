@@ -10,5 +10,5 @@ console.log(description);
 const multi_line = `Hi,
 Here, i am ${desg} ${full_name}...
 I want to share something about javaScript programing. If you want to here me,
-Then have to be waited for hearing my speech about javaScript new leason.`;
+Then you have to be waited for hearing my speech about javaScript new leason.`;
 console.log(multi_line);
