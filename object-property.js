@@ -22,5 +22,5 @@ const biggerIdNames = students.find(s => s.id > 40);
 console.log('find element of array object using find = ', biggerIdNames);
 
 //find element of array object using filter with arrow function
-const biggers= students.filter(s => s.id > 40);
+const biggers = students.filter(s => s.id > 40);
 console.log('find element of array object using filter = ', biggers);
